@@ -37,7 +37,7 @@ This project provides a command-line interface and Python library for programmat
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/sa-ae108-diffuser-api.git
+git clone https://github.com/lglasbergen/Scent-Marketing-API
 cd sa-ae108-diffuser-api
 ```
 
